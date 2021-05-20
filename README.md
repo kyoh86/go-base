@@ -36,7 +36,7 @@ $ brew install kyoh86/tap/gobase
 ```console
 $ mkdir -p gobase_build && \
   cd gobase_build && \
-  curl -L --silent https://github.com/kyoh86/gobase/releases/latest/download/gobase_PKGBUILD.tar.gz | tar -xvz
+  curl -iL --fail --silent https://github.com/kyoh86/gobase/releases/latest/download/gobase_PKGBUILD.tar.gz | tar -xvz
 $ makepkg -i
 ```
 
