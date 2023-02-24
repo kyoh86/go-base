@@ -26,9 +26,7 @@ require (
 	github.com/spf13/cobra v1.1.3
 	github.com/xanzy/go-gitlab v0.50.0 // indirect
 	gocloud.dev v0.23.0 // indirect
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a // indirect
-	golang.org/x/net v0.0.0-20210510120150-4163338589ed // indirect
-	golang.org/x/term v0.0.0-20210422114643-f5beecf764ed // indirect
+	golang.org/x/net v0.7.0 // indirect
 	google.golang.org/api v0.47.0 // indirect
 	google.golang.org/genproto v0.0.0-20210518161634-ec7691c0a37d // indirect
 	google.golang.org/grpc v1.38.0 // indirect
