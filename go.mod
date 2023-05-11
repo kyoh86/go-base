@@ -24,7 +24,7 @@ require (
 	github.com/aymanbagabas/go-osc52 v1.2.2 // indirect
 	github.com/cenkalti/backoff/v4 v4.2.0 // indirect
 	github.com/chrismellard/docker-credential-acr-env v0.0.0-20230214084458-fb789970a885 // indirect
-	github.com/cloudflare/circl v1.3.2 // indirect
+	github.com/cloudflare/circl v1.3.3 // indirect
 	github.com/containerd/stargz-snapshotter/estargz v0.14.1 // indirect
 	github.com/dghubble/go-twitter v0.0.0-20221104224141-912508c3888b // indirect
 	github.com/dghubble/sling v1.4.1 // indirect
