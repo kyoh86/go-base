@@ -31,7 +31,6 @@ require (
 	github.com/disgoorg/disgo v0.15.1 // indirect
 	github.com/docker/cli v23.0.1+incompatible // indirect
 	github.com/docker/docker v23.0.1+incompatible // indirect
-	github.com/fatih/color v1.14.1 // indirect
 	github.com/go-git/go-billy/v5 v5.4.1 // indirect
 	github.com/go-git/go-git/v5 v5.5.2 // indirect
 	github.com/go-openapi/jsonreference v0.20.2 // indirect
@@ -44,7 +43,7 @@ require (
 	github.com/goreleaser/chglog v0.4.2 // indirect
 	github.com/goreleaser/goreleaser v1.15.2
 	github.com/goreleaser/nfpm/v2 v2.26.0 // indirect
-	github.com/hashicorp/go-retryablehttp v0.7.2 // indirect
+	github.com/hashicorp/go-retryablehttp v0.7.7 // indirect
 	github.com/huandu/xstrings v1.4.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/klauspost/compress v1.16.0 // indirect
