@@ -4,7 +4,6 @@ A template of the go-app project
 
 [![PkgGoDev](https://pkg.go.dev/badge/kyoh86/gobase)](https://pkg.go.dev/kyoh86/gobase)
 [![Go Report Card](https://goreportcard.com/badge/github.com/kyoh86/gobase)](https://goreportcard.com/report/github.com/kyoh86/gobase)
-[![Coverage Status](https://img.shields.io/codecov/c/github/kyoh86/gobase.svg)](https://codecov.io/gh/kyoh86/gobase)
 [![Release](https://github.com/kyoh86/gobase/workflows/Release/badge.svg)](https://github.com/kyoh86/gobase/releases)
 
 ## Description
