@@ -1,5 +1,6 @@
 # yaml-language-server: $schema=https://goreleaser.com/static/schema.json
 
+version: 2
 project_name: gobase
 builds:
   - id: default
@@ -17,17 +18,6 @@ builds:
     hooks:
       post:
         - go run -tags man -ldflags "-X=main.version={{.Version}} -X=main.commit={{.ShortCommit}} -X=main.date={{.Date}}" ./cmd/gobase man
-brews:
-  - install: |
-      bin.install "gobase"
-      man1.install Dir.glob('gobase*.1')
-    tap:
-      owner: kyoh86
-      name: homebrew-tap
-    folder: Formula
-    homepage: https://github.com/kyoh86/gobase
-    description: ""
-    license: MIT
 nfpms:
   - builds:
       - default
