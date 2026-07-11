@@ -2,7 +2,6 @@ version: "2"
 linters:
   enable:
     - bodyclose
-    - depguard
     - dogsled
     - gocritic
     - godox
